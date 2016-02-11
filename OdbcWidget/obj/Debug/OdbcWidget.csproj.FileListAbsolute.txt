@@ -1,0 +1,10 @@
+c:\users\vmm350\documents\visual studio 2013\Projects\OdbcWidget\OdbcWidget\bin\Debug\OdbcWidget.dll
+c:\users\vmm350\documents\visual studio 2013\Projects\OdbcWidget\OdbcWidget\bin\Debug\OdbcWidget.pdb
+c:\users\vmm350\documents\visual studio 2013\Projects\OdbcWidget\OdbcWidget\obj\Debug\OdbcWidget.dll
+c:\users\vmm350\documents\visual studio 2013\Projects\OdbcWidget\OdbcWidget\obj\Debug\OdbcWidget.pdb
+C:\Users\vmm350\documents\visual studio 2013\Projects\OdbcWidget\OdbcWidget\obj\Debug\OdbcWidget.csprojResolveAssemblyReference.cache
+C:\Tfs\SDET Backlog\SyntheticData\CodedDataImport\OdbcWidget\OdbcWidget\bin\Debug\OdbcWidget.dll
+C:\Tfs\SDET Backlog\SyntheticData\CodedDataImport\OdbcWidget\OdbcWidget\bin\Debug\OdbcWidget.pdb
+C:\Tfs\SDET Backlog\SyntheticData\CodedDataImport\OdbcWidget\OdbcWidget\obj\Debug\OdbcWidget.csprojResolveAssemblyReference.cache
+C:\Tfs\SDET Backlog\SyntheticData\CodedDataImport\OdbcWidget\OdbcWidget\obj\Debug\OdbcWidget.dll
+C:\Tfs\SDET Backlog\SyntheticData\CodedDataImport\OdbcWidget\OdbcWidget\obj\Debug\OdbcWidget.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdbcWidget", "OdbcWidget\OdbcWidget.csproj", "{06C0F5A7-9686-40B9-8267-238C5AEC4E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdbcWidgetTests", "OdbcWidgetTests\OdbcWidgetTests.csproj", "{27C5C25E-0276-45E7-A674-91C584B4BAAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C0F5A7-9686-40B9-8267-238C5AEC4E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C0F5A7-9686-40B9-8267-238C5AEC4E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C0F5A7-9686-40B9-8267-238C5AEC4E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C0F5A7-9686-40B9-8267-238C5AEC4E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C5C25E-0276-45E7-A674-91C584B4BAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C5C25E-0276-45E7-A674-91C584B4BAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C5C25E-0276-45E7-A674-91C584B4BAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C5C25E-0276-45E7-A674-91C584B4BAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

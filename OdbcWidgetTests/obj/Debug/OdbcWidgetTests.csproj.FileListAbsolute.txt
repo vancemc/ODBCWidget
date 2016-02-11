@@ -1,0 +1,14 @@
+c:\users\vmm350\documents\visual studio 2013\Projects\OdbcWidget\OdbcWidgetTests\bin\Debug\OdbcWidgetTests.dll
+c:\users\vmm350\documents\visual studio 2013\Projects\OdbcWidget\OdbcWidgetTests\bin\Debug\OdbcWidgetTests.pdb
+c:\users\vmm350\documents\visual studio 2013\Projects\OdbcWidget\OdbcWidgetTests\bin\Debug\OdbcWidget.dll
+c:\users\vmm350\documents\visual studio 2013\Projects\OdbcWidget\OdbcWidgetTests\bin\Debug\OdbcWidget.pdb
+c:\users\vmm350\documents\visual studio 2013\Projects\OdbcWidget\OdbcWidgetTests\obj\Debug\OdbcWidgetTests.csprojResolveAssemblyReference.cache
+c:\users\vmm350\documents\visual studio 2013\Projects\OdbcWidget\OdbcWidgetTests\obj\Debug\OdbcWidgetTests.dll
+c:\users\vmm350\documents\visual studio 2013\Projects\OdbcWidget\OdbcWidgetTests\obj\Debug\OdbcWidgetTests.pdb
+C:\Tfs\SDET Backlog\SyntheticData\CodedDataImport\SqlDataImport\OdbcWidget\OdbcWidgetTests\obj\Debug\OdbcWidgetTests.csprojResolveAssemblyReference.cache
+C:\Tfs\SDET Backlog\SyntheticData\CodedDataImport\SqlDataImport\OdbcWidget\OdbcWidgetTests\obj\Debug\OdbcWidgetTests.dll
+C:\Tfs\SDET Backlog\SyntheticData\CodedDataImport\SqlDataImport\OdbcWidget\OdbcWidgetTests\obj\Debug\OdbcWidgetTests.pdb
+C:\Tfs\SDET Backlog\SyntheticData\CodedDataImport\SqlDataImport\OdbcWidget\OdbcWidgetTests\bin\Debug\OdbcWidgetTests.dll
+C:\Tfs\SDET Backlog\SyntheticData\CodedDataImport\SqlDataImport\OdbcWidget\OdbcWidgetTests\bin\Debug\OdbcWidgetTests.pdb
+C:\Tfs\SDET Backlog\SyntheticData\CodedDataImport\SqlDataImport\OdbcWidget\OdbcWidgetTests\bin\Debug\OdbcWidget.dll
+C:\Tfs\SDET Backlog\SyntheticData\CodedDataImport\SqlDataImport\OdbcWidget\OdbcWidgetTests\bin\Debug\OdbcWidget.pdb
