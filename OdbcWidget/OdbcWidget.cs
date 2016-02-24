@@ -145,6 +145,19 @@ namespace DataTools
             return result;
         }
 
+        public int ExecuteNonQuery(string sqlStatement, string dsn)
+        {
+            var command = new OdbcCommand(sqlStatement);
+
+            var odbcConn = CreateObdcConnection(dsn);
+
+            command.Connection = odbcConn;
+
+            var result = command.ExecuteNonQuery();
+
+            return result;
+        }
+
         private static bool ImplicitWaitUntilTimeout<TParamType>(Func<TParamType, bool> methodDelegate, TParamType param, int timeOutInMilliseconds)
         {
             bool result = false;
