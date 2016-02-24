@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Vance McCorkle</authors>
+    <owners>Vance McCorkle, Applied Testware</owners>
+    <licenseUrl>https://www.facebook.com/AppliedTestware/</licenseUrl>
+    <projectUrl>https://www.facebook.com/AppliedTestware/</projectUrl>
+    <iconUrl>http://www.pdclipart.org/albums/Small_Icons/small_gears.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Lightweight ODBC wrapper around the .Net System.Data.Odbc. Simplifies most ODBC operations down to one method call.</description>
+    <summary>Examples: OdbcWidget.TestConnection(validConnStr), OdbcWidget.CreateConnectionString("MyOdbcDSN", "MyUserName", "MySuperSecretPassword"), odbcWidget.ExecuteReader("select * from mySchema.SomeTable fetch first 100 rows only", "MyOdbcDsn");</summary>
+    <releaseNotes>First Beta release.</releaseNotes>
+    <copyright>Copyright © 2016 Applied Testware LLC Snohomish WA USA</copyright>
+    <tags>ODBC Database Connectivity</tags>
+  </metadata>
+</package>
